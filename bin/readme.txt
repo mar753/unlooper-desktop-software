@@ -1,0 +1,1 @@
+Skompilowano z u¿yciem kompilatora TDM-GCC MinGW 4.7.1 64-bit w œrodowisku DevC++ 5.4.1.
